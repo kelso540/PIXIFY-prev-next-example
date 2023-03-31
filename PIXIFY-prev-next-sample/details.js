@@ -101,6 +101,7 @@ const dwnOne = () =>{
     imageSeq.src = currentImg.images[counter];
   } 
   //create a new <p class="submission-current-image-number"></p> under img on details page. Will look like this...
+  // <div id="image-page"></div>
   // <div class="button-image">
   //   <p class="submission-current-image-number">1 of 5</p>
   //   <button class="prev" id="prev" onclick="imageSliderHandler('previous');" >Previous</button>
